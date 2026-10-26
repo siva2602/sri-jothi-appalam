@@ -1,0 +1,11 @@
+{
+  "title": "Sri Jothi Appalam",
+  "description": "Shop Sri Jothi Appalam, explore South Indian appalam products, manage orders, and send wholesale enquiries for your store, restaurant, or business.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
